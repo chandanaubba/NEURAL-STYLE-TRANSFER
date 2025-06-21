@@ -49,3 +49,7 @@ Neural style transfer is a technique that uses convolutional neural networks (CN
 - *Unique Artistic Effects*: Neural style transfer can generate unique artistic effects by combining the content of one image with the style of another.
 - *Flexibility*: Neural style transfer allows for flexible control over the style and content of the output image.
 - *Automation*: Neural style transfer can automate the process of applying artistic styles to images, saving time and effort.
+
+ ##output
+
+ ![Image](https://github.com/user-attachments/assets/95fb5307-d333-4514-91a3-a6da0a7b8644)
